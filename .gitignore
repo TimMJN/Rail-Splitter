@@ -8,3 +8,4 @@ rail_splitter_schematic/rail_splitter.kicad_pcb
 rail_splitter_schematic/rail_splitter_BOM.csv
 rail_splitter_schematic/rail_splitter_BOM.xlsx
 *.sch
+*.lib
