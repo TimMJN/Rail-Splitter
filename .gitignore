@@ -1,11 +1,2 @@
-
-*.tmp
-rail_splitter_schematic/fp-info-cache
-rail_splitter_schematic/rail_splitter.kicad_pcb
-*.net
-*.pro
-*.sch-bak
-rail_splitter_schematic/rail_splitter_BOM.csv
-rail_splitter_schematic/rail_splitter_BOM.xlsx
-*.sch
-*.lib
+KiCad/*
+gerber/*
